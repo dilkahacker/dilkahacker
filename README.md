@@ -1,5 +1,6 @@
+![logo](https://static.vecteezy.com/system/resources/previews/001/410/877/non_2x/programming-and-coding-futuristic-banner-vector.jpg)
 <h1 align="center">Hi 👋, I'm Ankit sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate computer engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.cf5a4102c566f22b62704244d2a925a4?pid=1.7&rurl=https%3a%2f%2fwww.iihglobal.com%2fwp-content%2fuploads%2f2019%2f02%2fdcsad.gif&ehk=dQPIfzn4BOcfAzkGFgAZi8IrVHWH%2b47OmIzjTcjg8T0%3d">
 
